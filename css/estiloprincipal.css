@@ -12,6 +12,10 @@ and open the template in the editor.
 }
 
 #titulodelsitio{
+    width: 100%;
+    height: 80px;
+    float: left;
+    background: brown;
     
 }
 
@@ -23,14 +27,18 @@ and open the template in the editor.
 }
 
 #menu{
+    width: 30%;
+    height: 500px;
+    float: left;
+	background: orange;
     
 }
 
 #contenido{
     width: 70%;
-   height: 500px; 
+   height: 500px;
    float: left;
-   background: yellow;
+   background: black;
     
 }
 
