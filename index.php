@@ -11,9 +11,11 @@ and open the template in the editor.
         <link href="css/estiloprincipal.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <div id="contenido">
+        <div id="contenedor">
             <div id="titulodelsitio"></div>
             <div id="titulodelapagina"></div>
+            <div id="menu"></div>
+            <div id="contenido"></div>
             
         </div>
 
